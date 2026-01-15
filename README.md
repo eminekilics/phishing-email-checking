@@ -1,7 +1,7 @@
 # phishing-email-checking
 this project checks if the given email is a phishing email based on its train test
 
-English Section
+English
 This project implements a machine learning pipeline to classify emails as either "Safe" or "Phishing". The primary focus of this project is not only model training but also robust data cleaning and preprocessing of unstructured text data. The dataset, sourced from Kaggle, contained significant parsing errors (delimiter issues and bad lines) which were handled programmatically using Pandas.
 
 Key Features:
